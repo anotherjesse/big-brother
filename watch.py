@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 import subprocess, camera, time
 
 cam = camera.Camera()
