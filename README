@@ -1,0 +1,16 @@
+A single application that checks if your are connected
+to the VPN and turns on the iSight camera if so.
+
+Uses:
+
+  * vpnclient
+
+  * isightcapture
+
+WARNING:
+
+This might consume all of your CPU...  It is an ugly 
+hack that turns on the camera and then puts that 
+process to sleep.
+
+"It Works On My Machine!" (TM)
